@@ -1,3 +1,8 @@
+/*********
+Problem 1048
+    Aumento de Salário
+By Renato Freitas
+**********/
 #include <stdio.h>
 int main()
 {

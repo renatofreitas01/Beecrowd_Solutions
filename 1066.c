@@ -1,3 +1,8 @@
+/*********
+Problem 1066
+    Pares, Ímpares, Positivos e Negativos
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

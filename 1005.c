@@ -1,3 +1,8 @@
+/*********
+Problem 1005
+    Média 1
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

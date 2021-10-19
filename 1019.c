@@ -1,3 +1,8 @@
+/*********
+Problem 1019
+    Conversão de Tempo
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

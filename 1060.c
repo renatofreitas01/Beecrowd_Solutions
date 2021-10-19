@@ -1,3 +1,8 @@
+/*********
+Problem 1060
+    Números Positivos
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

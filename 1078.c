@@ -1,3 +1,8 @@
+/*********
+Problem 1078
+    Tabuada
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

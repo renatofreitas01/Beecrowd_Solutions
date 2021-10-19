@@ -1,3 +1,8 @@
+/*********
+Problem 1933
+    Tri-du
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

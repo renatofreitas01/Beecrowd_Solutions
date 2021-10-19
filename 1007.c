@@ -1,3 +1,8 @@
+/*********
+Problem 1007
+    Diferença
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

@@ -1,4 +1,8 @@
- 
+/*********
+Problem 1001
+    Extremamente Básico
+By Renato Freitas
+**********/ 
 int main() {
  
     int a, b;

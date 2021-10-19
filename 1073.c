@@ -1,3 +1,8 @@
+/*********
+Problem 1073
+    Quadrado de Pares
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

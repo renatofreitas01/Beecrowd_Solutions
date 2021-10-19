@@ -1,3 +1,8 @@
+/*********
+Problem 1075
+    Resto 2
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

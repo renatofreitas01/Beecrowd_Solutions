@@ -1,3 +1,8 @@
+/*********
+Problem 1080
+    Maior e Posição
+By Renato Freitas
+**********/
 #include <stdio.h>
 #define TAM 100
 int main() {

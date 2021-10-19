@@ -1,3 +1,8 @@
+/*********
+Problem 1036
+    Fórmula de Bhaskara
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <math.h> 
  

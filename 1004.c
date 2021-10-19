@@ -1,3 +1,8 @@
+/*********
+Problem 1004
+    Produto Simples
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

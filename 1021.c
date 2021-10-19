@@ -1,3 +1,8 @@
+/*********
+Problem 1021
+    Notas e Moedas
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main(){

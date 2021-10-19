@@ -1,3 +1,8 @@
+/*********
+Problem 1041
+    Coordenadas de um Ponto
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

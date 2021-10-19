@@ -1,3 +1,8 @@
+/*********
+Problem 1097
+    Sequencia IJ 3
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

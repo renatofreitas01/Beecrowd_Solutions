@@ -1,3 +1,8 @@
+/*********
+Problem 1064
+    Positivos e Média
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,8 @@
+/*********
+Problem 2242
+    Huaauhahhuahau
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main()

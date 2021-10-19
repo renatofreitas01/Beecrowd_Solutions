@@ -1,3 +1,8 @@
+/*********
+Problem 1040
+    Média 3
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <math.h> 
  

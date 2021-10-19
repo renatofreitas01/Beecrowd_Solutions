@@ -1,3 +1,8 @@
+/*********
+Problem 1038
+    Lanche
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

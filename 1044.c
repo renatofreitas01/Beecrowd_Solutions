@@ -1,3 +1,8 @@
+/*********
+Problem 1044
+    Múltiplos
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

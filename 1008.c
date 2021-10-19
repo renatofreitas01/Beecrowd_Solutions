@@ -1,3 +1,8 @@
+/*********
+Problem 1008
+    Salário
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

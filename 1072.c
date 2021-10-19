@@ -1,3 +1,8 @@
+/*********
+Problem 1072
+    Intervalo 2
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

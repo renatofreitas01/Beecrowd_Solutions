@@ -1,3 +1,8 @@
+/*********
+Problem 1042
+    Sort Simples
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

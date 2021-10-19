@@ -1,3 +1,8 @@
+/*********
+Problem 1061
+    Tempo de um Evento
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

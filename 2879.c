@@ -1,3 +1,8 @@
+/*********
+Problem 2879
+    Desvendando Monty Hall
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

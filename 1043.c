@@ -1,3 +1,8 @@
+/*********
+Problem 1043
+    Triângulo
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <math.h>
 

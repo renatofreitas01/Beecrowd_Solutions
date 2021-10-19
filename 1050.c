@@ -1,3 +1,8 @@
+/*********
+Problem 1050
+    DDD
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <string.h>
 

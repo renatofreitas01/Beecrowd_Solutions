@@ -1,3 +1,8 @@
+/*********
+Problem 1051
+    Imposto de Renda
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <string.h>
 

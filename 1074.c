@@ -1,3 +1,8 @@
+/*********
+Problem 1074
+    Par ou Ímpar
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

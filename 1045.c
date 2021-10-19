@@ -1,3 +1,8 @@
+/*********
+Problem 1045
+    Tipos de Triângulos
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

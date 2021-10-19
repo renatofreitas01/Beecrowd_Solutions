@@ -1,3 +1,8 @@
+/*********
+Problem 1079
+    Médias Ponderadas
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

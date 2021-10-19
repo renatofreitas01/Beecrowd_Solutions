@@ -1,3 +1,8 @@
+/*********
+Problem 1067
+    Números Ímpares
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

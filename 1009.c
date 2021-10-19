@@ -1,3 +1,8 @@
+/*********
+Problem 1009
+    Salário com Bônus
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

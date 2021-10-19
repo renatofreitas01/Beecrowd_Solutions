@@ -1,3 +1,8 @@
+/*********
+Problem 1010
+    Cálculo Simples
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

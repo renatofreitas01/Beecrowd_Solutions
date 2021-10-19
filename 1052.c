@@ -1,3 +1,8 @@
+/*********
+Problem 1052
+    Mês
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

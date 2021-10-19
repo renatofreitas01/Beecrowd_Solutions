@@ -1,3 +1,8 @@
+/*********
+Problem 2968
+    Hora da Corrida
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

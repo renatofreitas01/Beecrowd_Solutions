@@ -1,3 +1,8 @@
+/*********
+Problem 1047
+    Tempo de Jogo com Minutos
+By Renato Freitas
+**********/
 #include <stdio.h>
 int main()
 {

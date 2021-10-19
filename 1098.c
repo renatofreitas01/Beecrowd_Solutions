@@ -1,3 +1,8 @@
+/*********
+Problem 1098
+    Sequencia IJ 4
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

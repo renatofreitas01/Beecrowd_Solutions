@@ -1,3 +1,8 @@
+/*********
+Problem 1002
+    Área do Círculo
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

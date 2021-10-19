@@ -1,3 +1,8 @@
+/*********
+Problem 1016
+    Distância
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

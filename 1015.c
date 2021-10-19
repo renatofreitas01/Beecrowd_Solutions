@@ -1,3 +1,8 @@
+/*********
+Problem 1015
+    Distância Entre Dois Pontos
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <math.h>
  

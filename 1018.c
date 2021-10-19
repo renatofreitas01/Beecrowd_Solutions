@@ -1,3 +1,8 @@
+/*********
+Problem 1018
+    Cédulas
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

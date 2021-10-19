@@ -1,3 +1,8 @@
+/*********
+Problem 1071
+    Soma de Impares Consecutivos I
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {

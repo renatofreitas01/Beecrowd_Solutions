@@ -1,3 +1,8 @@
+/*********
+Problem 1020
+    Idade em Dias
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <stdlib.h>
 

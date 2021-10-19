@@ -1,3 +1,8 @@
+/*********
+Problem 2880
+    Enigma
+By Renato Freitas
+**********/
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>

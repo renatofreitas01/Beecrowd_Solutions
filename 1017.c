@@ -1,3 +1,8 @@
+/*********
+Problem 1017
+    Gasto de Combustível
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

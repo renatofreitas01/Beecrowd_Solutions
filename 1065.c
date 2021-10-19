@@ -1,3 +1,8 @@
+/*********
+Problem 1065
+    Pares entre Cinco Números
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

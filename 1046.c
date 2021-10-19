@@ -1,3 +1,8 @@
+/*********
+Problem 1046
+    Tempo de Jogo
+By Renato Freitas
+**********/
 #include <stdio.h>
  
 int main() {
