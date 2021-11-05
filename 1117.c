@@ -1,3 +1,8 @@
+/*********
+Problem 1117
+    Validação de Nota
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

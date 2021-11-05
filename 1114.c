@@ -1,3 +1,8 @@
+/*********
+Problem 1114
+    Senha Fixa
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

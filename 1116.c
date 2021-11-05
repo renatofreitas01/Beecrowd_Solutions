@@ -1,3 +1,8 @@
+/*********
+Problem 1116
+    Dividindo X por Y
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

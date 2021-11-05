@@ -1,3 +1,8 @@
+/*********
+Problem 1099
+    Soma de Ímpares Consecutivos II
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,8 @@
+/*********
+Problem 1118
+    Várias Notas Com Validação
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

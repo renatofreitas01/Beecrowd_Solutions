@@ -1,3 +1,8 @@
+/*********
+Problem 1101
+    Sequência de Números e Soma
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {
