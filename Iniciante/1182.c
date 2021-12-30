@@ -1,4 +1,8 @@
-1182 - Coluna na Matriz
+/*********
+Problem 1182
+    Coluna na Matriz
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {
