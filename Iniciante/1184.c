@@ -1,3 +1,8 @@
+/*********
+Problem 1184
+    Abaixo da Diagonal Principal
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {
