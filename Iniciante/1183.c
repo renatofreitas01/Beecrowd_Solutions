@@ -1,4 +1,8 @@
-1183 - Acima da Diagonal Principal
+/*********
+Problem 1183
+    Acima da Diagonal Principal
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

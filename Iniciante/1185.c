@@ -1,4 +1,8 @@
-1185 - Acima da Diagonal Secundária
+/*********
+Problem 1185
+    Acima da Diagonal Secundária
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {
