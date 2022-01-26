@@ -1,4 +1,8 @@
-1847 - Bem-vindos e Bem-vindas ao Inverno!
+/*********
+Problem 1847
+    Bem-vindos e Bem-vindas ao Inverno!
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {

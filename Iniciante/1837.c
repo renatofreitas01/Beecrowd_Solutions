@@ -1,4 +1,8 @@
-1837 - Prefácio
+/*********
+Problem 1837
+    Prefácio
+By Renato Freitas
+**********/
 #include <stdio.h>
 
 int main() {
